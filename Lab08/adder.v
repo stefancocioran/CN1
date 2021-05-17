@@ -27,3 +27,4 @@ module adder(
 	assign S[7:5] = 2'b00;
 	
 endmodule
+
