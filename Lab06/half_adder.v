@@ -29,3 +29,4 @@ module half_adder(
 	assign carry = (dummy_carry == 3'b111);
 	
 endmodule
+
