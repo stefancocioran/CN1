@@ -48,3 +48,4 @@ module logical_unit(
 	 * Hint: Use `SECOND define for counting the clock cycles.
 	 */
 endmodule
+

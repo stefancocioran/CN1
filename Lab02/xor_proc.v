@@ -36,3 +36,4 @@ module xor_proc(
     end   
 
 endmodule
+
