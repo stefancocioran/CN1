@@ -4,7 +4,7 @@
 module cpu(
 	input reset, clk
 	);
-
+ 
 	/*
 	 * Processor registers. Rd and Rr refer to registers from this array.
 	 */
